@@ -3,15 +3,15 @@
 }
 h1 {
     background-color: yellow;
-    font-weight: 800px;
+    font-weight: 800;
 }
 h2 {
     background-color: greenyellow;
-    font-weight: 700px;
+    font-weight: 700;
 }
 ol, ul {
     background-color: darkorchid;
-    font-weight: 500px;
+    font-weight: 500;
 }
 li {
     background-color: lavender;
