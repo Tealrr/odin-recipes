@@ -2,8 +2,12 @@
     font-family:'Times New Roman', Times, serif;
 }
 h1 {
+    
     background-color: yellow;
     font-weight: 800;
+    text-align: center;
+    padding: 16px;
+    display: block;
 }
 h2 {
     background-color: greenyellow;
